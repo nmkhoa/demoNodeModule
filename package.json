@@ -1,0 +1,23 @@
+{
+  "name": "demo-node-module",
+  "version": "1.0.0",
+  "description": "demo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancyhn/demoNodeModule.git"
+  },
+  "keywords": [
+    "node",
+    "module"
+  ],
+  "author": "Khoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nancyhn/demoNodeModule/issues"
+  },
+  "homepage": "https://github.com/nancyhn/demoNodeModule#readme"
+}
